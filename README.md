@@ -78,8 +78,22 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmyts&show_icons=true&locale=en&layout=compact" alt="dmyts" /></p>
+# 📈 My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmyts&show_icons=true&locale=en" alt="dmyts" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmyts&" alt="dmyts" /></p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dmyts&show_icons=true&locale=en" alt="dmyts GitHub Stats" width="49%"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmyts" alt="dmyts GitHub Streak" width="49%"/>
+
+</div>
+
+<div align="center">
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmyts&show_icons=true&locale=en&layout=compact" alt="dmyts Top Languages" width="49%"/>
+  
+</div>
+
