@@ -82,9 +82,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dmyts&show_icons=true&locale=en" alt="dmyts GitHub Stats" width="49%"/>
-  
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmyts" alt="dmyts GitHub Streak" width="49%"/>
 
